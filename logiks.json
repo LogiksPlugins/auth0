@@ -1,0 +1,29 @@
+{
+    "name": "Logiks Auth0",
+    "version": "1.0",
+    "status": "alpha",
+    "type": "module",
+    "package":"olgks.auth0",
+    "description": "Auth0 Plugin for Logiks. This allows auth0 login in Logiks Login System",
+    "keywords": "logiks,modules,auth0",
+    "license": "MIT",
+    "marketid": "",
+    "homepage": "https://github.com/LogiksPlugins/auth0",
+    "bugs": "https://github.com/LogiksPlugins/auth0/issues",
+    "private": false,
+    "dependencies": {
+        "core": "+4.0.0",
+    },
+    "plugins":{},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/auth0.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"olgksadmin"
+        }
+    ]
+}
