@@ -3,7 +3,7 @@
     "version": "1.0",
     "status": "alpha",
     "type": "module",
-    "package":"olgks.auth0",
+    "package":"auth0",
     "description": "Auth0 Plugin for Logiks. This allows auth0 login in Logiks Login System",
     "keywords": "logiks,modules,auth0",
     "license": "MIT",
