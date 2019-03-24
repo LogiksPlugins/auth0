@@ -12,7 +12,7 @@
     "bugs": "https://github.com/LogiksPlugins/auth0/issues",
     "private": false,
     "dependencies": {
-        "core": "+4.0.0",
+        "core": "+4.0.0"
     },
     "plugins":{},
     "repository": {
